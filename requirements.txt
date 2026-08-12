@@ -1,0 +1,5 @@
+numpy
+opencv-python
+pygame
+matplotlib
+tensorflow  # only needed to retrain (training_nn.py)
