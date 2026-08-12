@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+# simulation build artifacts
+verilog/nn_recognize
+*.vcd
+*.lxt2
+
+.DS_Store
