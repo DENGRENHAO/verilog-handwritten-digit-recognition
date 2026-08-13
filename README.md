@@ -65,4 +65,4 @@ python training_nn.py
 
 ## Context
 
-Term project for Digital Systems Design at NYCU (Fall 2022), team of two (鄧人豪, 蔡季廷). I was responsible for the Verilog inference engine and the training/weight-export pipeline; my teammate built the drawing GUI. Design discussion is documented on [HackMD](https://hackmd.io/@Ren-Hao-Deng/Verilog_Handwritten_Digit_Recognition).
+Term project for Digital Systems Design at NYCU (Fall 2022), taught by Prof. Jean Jyh-Jiun Shann; a team of two. I was responsible for the Verilog inference engine and the training/weight-export pipeline; my teammate built the drawing GUI. Design discussion is documented on [HackMD](https://hackmd.io/@Ren-Hao-Deng/Verilog_Handwritten_Digit_Recognition).
